@@ -23,6 +23,7 @@ public class MainActivity extends ActionBarActivity {
         int teste44 = 0;
         int revert11 = 7;
         int revert22 = 8;
+        int test55 = 0;
     }
 
     @Override
