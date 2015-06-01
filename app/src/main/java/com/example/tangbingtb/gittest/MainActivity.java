@@ -16,6 +16,7 @@ public class MainActivity extends ActionBarActivity {
         int abc = 0;
         int rev = 2;
         int reset = 3;
+        int revert = 6;
     }
 
     @Override
