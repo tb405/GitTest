@@ -14,6 +14,9 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         //nihao
         int abc = 0;
+        int rev = 2;
+        int reset = 3;
+        int revert = 6;
         int test1 = 0;
         int test22 = 0;
         int test33 = 0;
