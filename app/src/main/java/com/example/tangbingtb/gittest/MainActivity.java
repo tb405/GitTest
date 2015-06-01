@@ -15,6 +15,7 @@ public class MainActivity extends ActionBarActivity {
         //nihao
         int abc = 0;
         int test1 = 0;
+        int test22 = 0;
     }
 
     @Override
